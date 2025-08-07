@@ -1,4 +1,4 @@
-<-- 
+
 ## Hello, I am Yeila 
 
 💼 Professional Summary
@@ -6,5 +6,3 @@ Biochemical Engineering student with hands-on experience in lab research, data s
 Linkedin: [https://www.linkedin.com/feed/]
 
 🔬 Open to learning new programming languages and database setup.
-
--->
